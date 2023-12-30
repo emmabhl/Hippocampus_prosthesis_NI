@@ -3,4 +3,4 @@
 
 This repository includes:
 - **impedance_dimension_stimulation.ipynb**, a jupyter notebook computing electrical properties of the electrodes
-- **buckling_force.ipynb**, a jupyter notebook computing the buckling force of the device.
+- **buckling_force_calculation.ipynb**, a jupyter notebook computing the buckling force of the device.
